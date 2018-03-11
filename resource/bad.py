@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import
+import 
 x = 10
 y = 20
 
