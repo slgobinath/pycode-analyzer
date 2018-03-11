@@ -4,11 +4,8 @@ Prototype to test pylint api.
 #!/usr/bin/python3
 
 import os
-import sys
 import json
-from pylint import epylint as lint
 from pylint import lint
-from pylint.reporters.text import TextReporter
 from pylint.reporters.json import JSONReporter
 
 
